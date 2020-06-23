@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "TDD",
+    "mocha",
+    "chai",
+    "nodejs",
+    "javascript"
+  ],
+  "dependencies": {
+    "mocha": "^8.0.1",
+    "chai": "^4.2.0"
+  }
+}
